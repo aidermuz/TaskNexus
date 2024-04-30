@@ -84,7 +84,7 @@ export const Sidebar = ({
             >
                <Link href='/select-org'>
                   <Plus
-                    className="h-4 w-4"
+               className="h-4 w-4"
                   />
                </Link>
             </Button>

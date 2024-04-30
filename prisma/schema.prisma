@@ -7,7 +7,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model board {
+model Board {
   id String @id @default(uuid())
 
   title String
